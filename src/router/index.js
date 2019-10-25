@@ -115,6 +115,11 @@ export default new Router({
                     meta: { title: '开屏广告' }
                 },
                 {
+                    path: '/Union-Switch',
+                    component: resolve => require(['../components/page/Union-Switch.vue'], resolve),
+                    meta: { title: 'iOS联合会员开关' }
+                },
+                {
                     path: '/Sys-Logs',
                     component: resolve => require(['../components/page/Sys-Logs.vue'], resolve),
                     meta: { title: '系统日志' }

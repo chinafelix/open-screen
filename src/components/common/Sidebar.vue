@@ -85,10 +85,10 @@
                             //     index: 'Sys-Region',
                             //     title: '跳转功能编辑'
                             // },
-                            // {
-                            //     index: 'Setting-Ship-Company',
-                            //     title: '快递公司'
-                            // },
+                            {
+                                index: 'Union-Switch',
+                                title: 'iOS联合会员开关'
+                            },
                             {
                                 index: 'Open-Screen',
                                 title: '开屏广告'
