@@ -12,7 +12,7 @@
     "build:prod": "cross-env X_ENV=production vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "crypto-js": "^3.1.9-1",
     "element-ui": "^2.12.0",
