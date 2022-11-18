@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "cross-env": "^6.0.0",
     "crypto": "^1.0.1",
     "hmacsha1": "^1.0.0",
